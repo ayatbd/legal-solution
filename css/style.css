@@ -1,3 +1,9 @@
 .navbar-nav.gap-4.mb-2.mb-lg-0 {
     margin-right: 160px;
   }
+
+  .banner {
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%), url(../images/Rectangle\ 4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
