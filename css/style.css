@@ -7,3 +7,19 @@
     background-position: center;
     background-repeat: no-repeat;
   }
+
+  .lg-practice-img {
+    height: 70px;
+    width: 72px;
+  }
+
+  .custom-bg-class {
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    transition: .3s ease;
+  }
+
+  .custom-bg-class:hover {
+    background: linear-gradient(180deg, #f08080 0%, rgba(243, 243, 243, 0) 100%);
+  }
+
+
